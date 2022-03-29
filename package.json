@@ -1,1 +1,1 @@
-{"name":"project","dependencies":{"express":"^4.17.3"}}
+{"name":"project","dependencies":{"dotenv":"^16.0.0","express":"^4.17.3"}}
